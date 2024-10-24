@@ -1,0 +1,7 @@
+C:\Users\Geraldo Luiz\Desktop\Bootcamp\Carros\test\bin\Debug\net8.0\CoverletSourceRootsMapping
+C:\Users\Geraldo Luiz\Desktop\Bootcamp\Carros\test\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+C:\Users\Geraldo Luiz\Desktop\Bootcamp\Carros\test\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\Geraldo Luiz\Desktop\Bootcamp\Carros\test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geraldo Luiz\Desktop\Bootcamp\Carros\test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\Users\Geraldo Luiz\Desktop\Bootcamp\Carros\test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\Users\Geraldo Luiz\Desktop\Bootcamp\Carros\test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
